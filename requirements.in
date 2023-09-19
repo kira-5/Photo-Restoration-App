@@ -1,0 +1,32 @@
+
+# pip list
+# pip freeze
+
+# pip-compile requirements.in -o requirements.txt
+
+# pip install -r requirements.txt
+
+# pip-compile requirements.in
+
+# pip-compile --upgrade requirements.in
+
+
+black
+# pylance # Static analysis tool
+flake8
+python-dotenv
+pip-tools
+pytz
+
+
+# # FastAPI
+fastapi 
+uvicorn 
+fastapi-limiter
+
+# To receive uploaded files
+python-multipart
+
+jinja2
+
+replicate
